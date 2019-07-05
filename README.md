@@ -1,3 +1,3 @@
-# *PixyProject*
+# _Pixy-Project_
 
 ![Robot](pixy2-robot.jpg)
