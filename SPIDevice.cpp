@@ -35,7 +35,7 @@
 #include <fcntl.h>
 #include <sys/ioctl.h>
 #include <linux/types.h>
-
+#include <linux/spi/spidev.h>
 using namespace std;
 
 #define HEX(x) setw(2) << setfill('0') << hex << (int)(x)  //!< Macro for filling in leading 0 on HEX outputs
